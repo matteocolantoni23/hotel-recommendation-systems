@@ -1,0 +1,32 @@
+# Python / Node
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+node_modules/
+.ipynb_checkpoints/
+
+# Credentials — never commit
+kaggle.json
+
+# Dataset (downloaded from Kaggle, see README)
+data/
+
+# Course materials and personal coursework (not part of the group project)
+S05_*
+S20_*
+S21 *
+S22_*
+S22 *
+A4_*
+Group_Project(1).ipynb
+GP.html
+presentation.ipynb
+ppt.py
+package.json
+package-lock.json
+
+# OS / editor
+.DS_Store
+.vscode/
+.idea/
