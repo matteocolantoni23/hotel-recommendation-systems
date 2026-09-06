@@ -1,8 +1,8 @@
 # Hotel Recommendation Systems
 
-End-to-end design, evaluation, and business interpretation of recommender systems on real TripAdvisor hotel-review data. Group project for the Chatbots & Recommender Systems course (Bocconi University, 2026).
+End-to-end design, evaluation, and business interpretation of recommender systems on real TripAdvisor hotel-review data. Group project for the Chatbots & Recommender Systems course (IE University, 2026).
 
-**Research, design, and implementation by Matteo Colantoni.** Elias Nmeir, Nikolas Lafrentz, and Kenny Tohme reviewed the work and contributed to the final polish.
+Research, design, and implementation by Matteo Colantoni. Elias Nmeir, Nikolas Lafrentz, and Kenny Tohme reviewed the work and contributed to the final polish.
 
 Everything lives in one thoroughly documented notebook, [`hotel_recommendation_systems.ipynb`](hotel_recommendation_systems.ipynb) (~570 cells), which builds the full pipeline from raw reviews to business recommendations:
 
